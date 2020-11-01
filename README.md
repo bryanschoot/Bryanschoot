@@ -14,5 +14,5 @@ My name is Bryan Schoot and I'am a software engineer.
 ![Cloud](https://img.shields.io/badge/Cloud-Azure_Portal-informational?style=flat&logo=microsoft-azure&logoColor=white&color=1789fc&labelColor=000000)
 
 ## :bar_chart: Github stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=bryanschoot&show_icons=true&hide_border=true&bg_color=000000&title_color=1789fc&text_color=ffffff&icon_color=1789fc)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryanschoot&show_icons=true&hide_border=true&bg_color=000000&title_color=1789fc&text_color=ffffff&icon_color=1789fc)](https://github.com/bryanschoot)
+![Github stats](https://github-readme-stats.vercel.app/api?username=bryanschoot&show_icons=true&hide_border=true&bg_color=000000&title_color=1789fc&text_color=ffffff&icon_color=1789fc)
